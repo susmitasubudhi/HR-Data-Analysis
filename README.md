@@ -22,7 +22,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
 -   What is average years at a company?
 
 ## Process
-### Data Collection
+--- Data Collection
    The HR dataset used for this project was obtained from publicly available learning resources.
 ### My Contribution
 - Created KPIs such as Aerage Salary Hike, Average monthly income, Overtime employement percentage,Average Performance rating.
