@@ -22,7 +22,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
 -   What is average years at a company?
 
 ## Process
---- Data Collection
+### Data Collection
    The HR dataset used for this project was obtained from publicly available learning resources.
 ### My Contribution
 - Created KPIs such as Aerage Salary Hike, Average monthly income, Overtime employement percentage,Average Performance rating.
@@ -31,7 +31,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
 - Created Decomposition tree showing attrition rate by Department, Overtime, Jobrole.
 ### Data cleaning and Preparations
 - Change the data types, remove duplicate values.
-- Created necessary measures such as (Attrition Rate,Active Emplyees)
+- Created necessary measures(e.g.Attrition Rate,Active Emplyees)
 ### Dashboard creations
  - Use BI Tools to create visualizations.
  - Built Multiple pages
@@ -40,8 +40,8 @@ To analyze employee data and idenitify key workforce trends related to employee 
  -    Average monthly income by job role
 ### Testing and Validations
  - Cross checked sample data to ensure accuracy of measures and visuals.
- - Tested and verified filter and slicer functionality for accurate dashboard interactions
-  
- 
-   
+ - Tested and verified filter and slicer functionality for accurate dashboard interactions (e.g. Gender)
+
+## Dashboard
+
 
