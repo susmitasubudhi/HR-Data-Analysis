@@ -7,4 +7,6 @@ To analyze employee data and idenitify key workforce trends related to employee 
 - Identify factors affecting employee attrition.
 - Help HR teams make informed decisions to improve retention and workforce planning.
 
+## Questions(KPIs)
+
 
