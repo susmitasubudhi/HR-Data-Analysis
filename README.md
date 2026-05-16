@@ -24,11 +24,23 @@ To analyze employee data and idenitify key workforce trends related to employee 
 ## Process
 ### Data Collection
    The HR dataset used for this project was obtained from publicly available learning resources.
-## My Contribution
+### My Contribution
 - Created KPIs such as Aerage Salary Hike, Average monthly income, Overtime employement percentage,Average Performance rating.
 - Perform Data Exploration and Analysis
 - Generated insights related to employee attrition and workforce trends.
 - Created Decomposition tree showing attrition rate by Department, Overtime, Jobrole.
+### Data cleaning and Preparations
+- Change the data types, remove duplicate values.
+- Created necessary measures such as (Attrition Rate,Active Emplyees)
+### Dashboard creations
+ - Use BI Tools to create visualizations.
+ - Built Multiple pages
+ -    Department wise attrition
+ -    Job Satisfaction ratings
+ -    Average monthly income by job role
+### Testing and Validations
+ - Cross checked sample data to ensure accuracy of measures and visuals.
+ - Tested and verified filter and slicer functionality for accurate dashboard interactions
   
  
    
