@@ -52,4 +52,9 @@ To analyze employee data and idenitify key workforce trends related to employee 
     - Attrition Rate by gender
 - Employee performance and compesations
     - Average Salary hike, Average monthly income ,Average Job Satisfaction, Overtime Employee Percentage,Average Performance ratings
+    - Average monthly income by Department
+    - Average monthly income by job levels and department
+    - Workforce distribution by department , job role and overtime
+    - Average salary hike by age group
+    - Performance rating vs Salary hike by department
 
