@@ -42,6 +42,6 @@ To analyze employee data and idenitify key workforce trends related to employee 
  - Cross checked sample data to ensure accuracy of measures and visuals.
  - Tested and verified filter and slicer functionality for accurate dashboard interactions (e.g. Gender)
 
-## Dashboard
-
+## Dashboard 
+- Dashboard Page
 
