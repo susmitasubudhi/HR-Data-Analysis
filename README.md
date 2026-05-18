@@ -1,5 +1,4 @@
-<img width="1362" height="746" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/73ef4823-f91b-427c-9185-8f55c93a2c5a" />
-<img width="1362" height="746" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/8dff4c14-b72c-42d8-b8f5-2794350d935b" />
+
 # HR-Data-Analysis
 ## Project Objective
 To analyze employee data and idenitify key workforce trends related to employee attrition, performance , job satisfaction and other HR metrics in order to support data driven decision making and improve employee retention and organizational performance.
