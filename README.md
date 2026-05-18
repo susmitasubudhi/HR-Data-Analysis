@@ -17,8 +17,8 @@ To analyze employee data and idenitify key workforce trends related to employee 
 -   What is the average monthly income/salary?
 -   Which age group has the highest attrition?
 -   What is the gender distribution of employees?
--   Which education field has the highest employee count?
--   Which department has the highest employee count?
+-   Which education field has the highest attrition count?
+
   
 
 ## Process
