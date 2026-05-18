@@ -1,3 +1,5 @@
+<img width="1362" height="746" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/73ef4823-f91b-427c-9185-8f55c93a2c5a" />
+<img width="1362" height="746" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/8dff4c14-b72c-42d8-b8f5-2794350d935b" />
 # HR-Data-Analysis
 ## Project Objective
 To analyze employee data and idenitify key workforce trends related to employee attrition, performance , job satisfaction and other HR metrics in order to support data driven decision making and improve employee retention and organizational performance.
@@ -75,4 +77,11 @@ To analyze employee data and idenitify key workforce trends related to employee 
  - In contrast, Sales Representatives have shorter tenure (2.01 years) but higher salary hikes (15.67%) and lower overtime, suggesting different attrition behavior driven by early-stage exits.
  - Overall, attrition is moderate-to-high and concentrated in specific job roles rather than being evenly distributed across the organization.
    
+
+<img width="1362" height="746" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/c66cd558-7f67-4ce9-bdef-b233fc7afbfd" />
+
+<img width="1327" height="747" alt="Employee Performance and compensations" src="https://github.com/user-attachments/assets/729e609c-4e1e-4833-ab69-09d19166e6b6" />
+
+<img width="1325" height="742" alt="workforce attrition" src="https://github.com/user-attachments/assets/258df586-3905-4366-97aa-184b637193bd" />
+
 
