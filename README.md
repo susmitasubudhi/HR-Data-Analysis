@@ -44,4 +44,12 @@ To analyze employee data and idenitify key workforce trends related to employee 
 
 ## Dashboard 
 - Dashboard Page
+    - Overall Employee, Attrition, Attrition Rate, Active Employees, Average Age
+    - Department wise attrition
+    - Number of employees by age group
+    - Job satisfaction ratings
+    - Education field wise attrition
+    - Attrition Rate by gender
+- Employee performance and compesations
+    - Average Salary hike, Average monthly income ,Average Job Satisfaction, Overtime Employee Percentage,Average Performance ratings
 
