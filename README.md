@@ -59,7 +59,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
     - Performance rating vs Salary hike by department
 ## Project insight
  - Attrition overview
-     - The R&D department records the highest attrition share at 56.12%,indicating that more than half of total employee attrition comes from this department. Job role wise Laboratary Technician records the highest attrition rate at 22.71% .
+     - The R&D department records the highest attrition share at 56.12%,indicating that more than half of total employee attrition comes from this department. Job role wise Laboratary Technician records the highest attrition rate at 26.16% .
     - Life Science shows the highest attrition with 89 employees leaving, accounting for 37.55% of total attrition, with males contributing more attrition               cases than females.
     -  The highest attrition occurs in the 25–34 age group (112 employees), with male employees contributing a larger share (61.61%) compared to females (    (38.39%).
 - Employee Performance and compensations:
