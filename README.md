@@ -59,8 +59,16 @@ To analyze employee data and idenitify key workforce trends related to employee 
     - Performance rating vs Salary hike by department
 ## Project insight
  - Attrition overview
-     - The R&D department records the highest attrition share at 56.12%,indicating that more than half of total employee attrition comes from this department.Job role wise Laboratary Technician records the highest attrition rate at 22.71% .
+     - The R&D department records the highest attrition share at 56.12%,indicating that more than half of total employee attrition comes from this department. Job role wise Laboratary Technician records the highest attrition rate at 22.71% .
     - Life Science shows the highest attrition with 89 employees leaving, accounting for 37.55% of total attrition, with males contributing more attrition               cases than females.
     -  The highest attrition occurs in the 25–34 age group (112 employees), with male employees contributing a larger share (61.61%) compared to females (    (38.39%).
+- Employee Performance and compensations:
+    - Employee distribution is heavily concentrated in the 25–34 age group, suggesting that the organization has a relatively young workforce.
+    - The Sales department has the highest average monthly income of 6,959.17, indicating that employees in this department receive the highest average compensation compared to other departments.
+    - Among all job roles, Managers record the highest average monthly income of 17,181.
+    - In the Job Level analysis, the R&D department at Job Level 5 records the highest average monthly income of 19,218.
+    - R&D employees show an average performance rating of 3.16 with an average salary hike of 15.29%.
+    - In the age-group analysis, employees over 55 years record the highest average salary hike of 15.51%.
+    - Within the R&D department (828 employees), Research Scientists form the largest group with 245 employees. Overtime patterns show that Healthcare Representatives (28.69%) and Research Directors (28.21%) have the highest overtime rates.
    
 
