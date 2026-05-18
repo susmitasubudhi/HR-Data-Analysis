@@ -28,7 +28,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
 - Created KPIs such as Aerage Salary Hike, Average monthly income, Overtime employement percentage,Average Performance rating.
 - Perform Data Exploration and Analysis
 - Generated insights related to employee attrition and workforce trends.
-- Created Decomposition tree showing attrition rate by Department, Overtime, Jobrole.
+- Created Decomposition tree showing active employees doing overtime by department and job role.
 ### Data cleaning and Preparations
 - Change the data types, remove duplicate values.
 - Created necessary measures(e.g.Attrition Rate,Active Emplyees)
