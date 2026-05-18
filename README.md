@@ -70,5 +70,9 @@ To analyze employee data and idenitify key workforce trends related to employee 
     - R&D employees show an average performance rating of 3.16 with an average salary hike of 15.29%.
     - In the age-group analysis, employees over 55 years record the highest average salary hike of 15.51%.
     - Within the R&D department (828 employees), Research Scientists form the largest group with 245 employees. Overtime patterns show that Healthcare Representatives (28.69%) and Research Directors (28.21%) have the highest overtime rates.
+# Final Conclusion
+ - The analysis shows that Laboratory Technicians contribute significantly to total attrition (~26.2%) despite having a higher average tenure (3.2 years). This role is associated with lower average monthly income (~3.2K), moderate salary hikes(15.05%), and higher overtime (~50%), indicating possible workload and compensation imbalance.
+ - In contrast, Sales Representatives have shorter tenure (2.01 years) but higher salary hikes (15.67%) and lower overtime, suggesting different attrition behavior driven by early-stage exits.
+ - Overall, attrition is moderate-to-high and concentrated in specific job roles rather than being evenly distributed across the organization.
    
 
