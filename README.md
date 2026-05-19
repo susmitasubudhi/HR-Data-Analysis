@@ -51,13 +51,19 @@ To analyze employee data and idenitify key workforce trends related to employee 
     - Job satisfaction ratings
     - Education field wise attrition
     - Attrition Rate by gender
-- Employee performance and compesations
+- Employee performance and compensations
     - Average Salary hike, Average monthly income ,Average Job Satisfaction, Overtime Employee Percentage,Average Performance ratings
     - Average monthly income by Department
     - Average monthly income by job levels and department
     - Workforce distribution by department , job role and overtime
     - Average salary hike by age group
     - Performance rating vs Salary hike by department
+  - WorkForce Attrition
+      - Attrition Rate, Average worklife balance
+      - Attrition rate by Department , Job role, overtime
+      - Job role wise attrition
+      - Avg years in current job role by department
+      - Average Percent salary hike by job role
 ## Project insight
  - Attrition overview
      - The R&D department records the highest attrition share at 56.12%,indicating that more than half of total employee attrition comes from this department. Job role wise Laboratary Technician records the highest attrition rate at 26.16% .
