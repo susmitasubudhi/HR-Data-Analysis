@@ -58,7 +58,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
     - Workforce distribution by department , job role and overtime
     - Average salary hike by age group
     - Performance rating vs Salary hike by department
-  - WorkForce Attrition
+- WorkForce Attrition
       - Attrition Rate, Average worklife balance
       - Attrition rate by Department , Job role, overtime
       - Job role wise attrition
