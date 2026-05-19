@@ -32,7 +32,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
 - Created Decomposition tree showing active employees doing overtime by department and job role.
 ### Data cleaning and Preparations
 - Change the data types, remove duplicate values.
-- Created necessary measures(e.g.Attrition Rate,Active Emplyees)
+- Created necessary measures(e.g.Attrition Rate,Active Employees)
 ### Dashboard creations
  - Use BI Tools to create visualizations.
  - Built Multiple pages
