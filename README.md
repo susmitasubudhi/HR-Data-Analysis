@@ -77,10 +77,5 @@ To analyze employee data and idenitify key workforce trends related to employee 
  - Overall, attrition is moderate-to-high and concentrated in specific job roles rather than being evenly distributed across the organization.
    
 
-<img width="1362" height="746" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/c66cd558-7f67-4ce9-bdef-b233fc7afbfd" />
-
-<img width="1327" height="747" alt="Employee Performance and compensations" src="https://github.com/user-attachments/assets/729e609c-4e1e-4833-ab69-09d19166e6b6" />
-
-<img width="1325" height="742" alt="workforce attrition" src="https://github.com/user-attachments/assets/258df586-3905-4366-97aa-184b637193bd" />
 
 
