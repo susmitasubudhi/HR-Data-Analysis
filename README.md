@@ -64,7 +64,15 @@ To analyze employee data and idenitify key workforce trends related to employee 
    - Job role wise attrition
    - Avg years in current job role by department
    - Average Percent salary hike by job role
-     
+
+     <img width="1376" height="742" alt="HR Dashboard" src="https://github.com/user-attachments/assets/3eb73f66-f348-444c-80c1-dd84d73f5be3" />
+
+     <img width="1317" height="733" alt="Employee perfformance and compensation" src="https://github.com/user-attachments/assets/375d3814-af21-467a-923e-3ca07bd60a50" />
+
+     <img width="1323" height="738" alt="workforce attrition" src="https://github.com/user-attachments/assets/8fa11ab9-f2b0-4ea6-a84f-680e028ddcea" />
+
+
+
 ## Project insight
  - Attrition overview
      - The R&D department records the highest attrition share at 56.12%,indicating that more than half of total employee attrition comes from this department. Job role wise Laboratary Technician records the highest attrition rate at 26.16% .
