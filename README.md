@@ -65,13 +65,11 @@ To analyze employee data and idenitify key workforce trends related to employee 
    - Avg years in current job role by department
    - Average Percent salary hike by job role
 
-     <img width="1376" height="742" alt="HR Dashboard" src="https://github.com/user-attachments/assets/3eb73f66-f348-444c-80c1-dd84d73f5be3" />
+    <img width="1332" height="735" alt="HR Dashboard" src="https://github.com/user-attachments/assets/93ed8a46-cf2e-4339-82a0-6ed63609e7d3" />
 
-     <img width="1317" height="733" alt="Employee perfformance and compensation" src="https://github.com/user-attachments/assets/375d3814-af21-467a-923e-3ca07bd60a50" />
+    <img width="1327" height="742" alt="Employee Performance and Compensation" src="https://github.com/user-attachments/assets/65b77c4d-504b-4521-a293-76d48bb9ec6b" />
 
-     <img width="1323" height="738" alt="workforce attrition" src="https://github.com/user-attachments/assets/8fa11ab9-f2b0-4ea6-a84f-680e028ddcea" />
-
-
+    <img width="1338" height="747" alt="workforce attrition" src="https://github.com/user-attachments/assets/507b7bc9-b57b-4b3e-a21d-dbcf4df93a69" />
 
 ## Project insight
  - Attrition overview
