@@ -64,8 +64,7 @@ To analyze employee data and idenitify key workforce trends related to employee 
    - Job role wise attrition
    - Avg years in current job role by department
    - Average Percent salary hike by job role
-
-### HR Dashboard     
+    
 
     <img width="1332" height="735" alt="HR Dashboard" src="https://github.com/user-attachments/assets/93ed8a46-cf2e-4339-82a0-6ed63609e7d3" />
  
